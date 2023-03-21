@@ -391,6 +391,17 @@
           }
         },
         {
+          "id": "2D_ICON.zip",
+          "name": "2D_ICON.zip",
+          "type": "File",
+          "artifact": {
+            "size": 60828,
+            "url": "https://github.com/Spotky1004P/POKEISLAND-Launcher-Distribution/raw/main/servers/pokeisland-1.16.5/files/resourcepacks/2D_ICON.zip",
+            "MD5": "74fbf423ec480aea98d5dfbeaf3223bf",
+            "path": "resourcepacks/2D_ICON.zip"
+          }
+        },
+        {
           "id": "com.pixelmonmod:pixelmon:9.1.0@jar",
           "name": "Pixelmon Mod",
           "type": "ForgeMod",
@@ -400,7 +411,6 @@
             "MD5": "0e397d7d8d045e9d60605b550b6e7883"
           }
         },
-        
         {
           "id": "BSL_v7.2.01pre2.zip",
           "name": "BSL_v7.2.01pre2.zip",
