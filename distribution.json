@@ -400,16 +400,7 @@
             "MD5": "0e397d7d8d045e9d60605b550b6e7883"
           }
         },
-        {
-          "id": "net.optifine:optifine:1.16.5_HD_U_G8@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6046996,
-            "url": "https://github.com/Spotky1004P/POKEISLAND-Launcher-Distribution/raw/main/servers/pokeisland-1.16.5/forgemods/required/OptiFine_1.16.5_HD_U_G8.jar",
-            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
-          }
-        },
+        
         {
           "id": "BSL_v7.2.01pre2.zip",
           "name": "BSL_v7.2.01pre2.zip",
